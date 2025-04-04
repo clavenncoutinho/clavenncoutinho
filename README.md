@@ -14,8 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=clavenncoutinho&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clavenncoutinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=clavenncoutinho&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=clavenncoutinho&icon=0&color=12)](https://visitcount.itsvg.in)
